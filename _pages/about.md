@@ -10,3 +10,4 @@ redirect_from:
 
 About text.
 
+<img src='/images/equ_l.gif'><img src='/images/aps_l.gif'><img src='/images/mix_l.gif'>
