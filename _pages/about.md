@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-About text
+About text.
 
