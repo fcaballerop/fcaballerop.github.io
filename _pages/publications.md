@@ -11,7 +11,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-For a full list of publications see [Google Scholar](https://scholar.google.com/citations?user=oC3Ql9gAAAAJ&hl=es)
+For a full list of publications see [Google Scholar](https://scholar.google.com/citations?user=oC3Ql9gAAAAJ&hl=es).
 
 Z. You, **F. Caballero** & M. C. Marchetti. Vorticity phase separation and defect lattices in isotropic active nematics. (in preparation).
 
