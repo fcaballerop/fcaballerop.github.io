@@ -11,6 +11,7 @@ redirect_from:
 
 Find [here](http://fcaballerop.github.io/files/CV-2022.pdf) on pdf format: [cv](http://fcaballerop.github.io/files/CV-2022.pdf). Last updated on Nov 2022.
 
+<!---
 Education
 ======
 * B.S. in Physics, Univ. Complutense, Madrid, 2015
@@ -32,4 +33,5 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
