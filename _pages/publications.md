@@ -23,6 +23,8 @@ R. Adhikari, A. Bolitho, **F. Caballero**, M. E. Cates, J. Dolezal, T. Ekeh, J. 
 
 **F. Caballero** & M. E. Cates. Stealth Entropy Production in Active Field Theories near Ising Critical Points. [Phys. Rev. Lett. 124, 240604](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.240604) (2020). See on [arxiv](https://arxiv.org/abs/2002.02281).
 
+**F. Caballero**. Critical dynamics of active phase separation: A scalar field theory approach. [PhD Thesis](https://www.repository.cam.ac.uk/handle/1810/307918) (2022)
+
 **F. Caballero**, C. Nardini & M. E. Cates. From bulk to microphase separation in scalar active matter: a perturbative renormalization group analysis. [J. Stat. Mech. 123208](https://iopscience.iop.org/article/10.1088/1742-5468/aaf321/meta) (2018). See on [arxiv](https://arxiv.org/abs/1809.10433).
 
 
