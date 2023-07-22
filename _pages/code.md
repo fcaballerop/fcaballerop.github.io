@@ -13,4 +13,4 @@ Find [here](https://github.com/fcaballerop/cuPSS) a solver for generic systems o
 
 See tutorials on how to write solvers [here](https://github.com/fcaballerop/cuPSS/wiki/Tutorials), and examples [here](https://github.com/fcaballerop/cuPSS/tree/main/examples).
 
-<img src='https://github.com/fcaballerop/cuPSS/blob/main/img/diffusion.gif'><img src='https://github.com/fcaballerop/cuPSS/blob/main/img/modelb.gif'><img src='https://github.com/fcaballerop/cuPSS/blob/main/img/modelh.gif'>
+<img src='/images/diffusion.gif'><img src='/images/modelb.gif'><img src='/images/modelh.gif'>
