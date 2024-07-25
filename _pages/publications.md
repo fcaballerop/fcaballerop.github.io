@@ -13,13 +13,13 @@ author_profile: true
 
 For a full list of publications see [Google Scholar](https://scholar.google.com/citations?user=oC3Ql9gAAAAJ&hl=es).
 
-[11] P. Gulati, **F. Caballero**, I. Kolvin, Z. You, M. C. Marchetti. Nonreciprocal interactions drive capillary waves in active liquid crystals. See on [arxiv](https://arxiv.org/abs/2407.04196).
+[11] P. Gulati, **F. Caballero**, I. Kolvin, Z. You, M. C. Marchetti. Nonreciprocal interactions drive capillary waves in active liquid crystals. See on [arxiv](https://arxiv.org/abs/2407.04196) (2024).
 
-[10] L. Zhao, P. Gulati, **F. Caballero**, I. Kolvin, R. Adkins, M. C. Marchetti & Z. Dogic. Asymmetric fluctuations and self-folding of active interfaces. See on [arxiv](https://arxiv.org/abs/2407.04679).
+[10] L. Zhao, P. Gulati, **F. Caballero**, I. Kolvin, R. Adkins, M. C. Marchetti & Z. Dogic. Asymmetric fluctuations and self-folding of active interfaces. See on [arxiv](https://arxiv.org/abs/2407.04679) (2024).
 
-[9] **F. Caballero**. cuPSS: a package for pseudo-spectral integration of stochastic PDEs. See on [arxiv](https://arxiv.org/abs/2405.02410).
+[9] **F. Caballero**. cuPSS: a package for pseudo-spectral integration of stochastic PDEs. See on [arxiv](https://arxiv.org/abs/2405.02410) (2024).
 
-[8] **F. Caballero**, Z. You & M. C. Marchetti. Vorticity phase separation and defect lattices in the isotropic phase of active liquid crystals. [Soft Matter 19 (40), 7828-7835](https://pubs.rsc.org/en/content/articlelanding/2023/sm/d3sm00744h/unauth). See on [arxiv](https://arxiv.org/abs/2306.04526).
+[8] **F. Caballero**, Z. You & M. C. Marchetti. Vorticity phase separation and defect lattices in the isotropic phase of active liquid crystals. [Soft Matter 19 (40), 7828-7835](https://pubs.rsc.org/en/content/articlelanding/2023/sm/d3sm00744h/unauth). See on [arxiv](https://arxiv.org/abs/2306.04526) (2023).
 
 [7] A. M. Tayar, **F. Caballero**, T. Anderberg, O. A. Saleh, M. C. Marchetti & Z. Dogic. Controlling liquid-liquid phase behavior with an active fluid. [Nat. Materials 22 (11), 1401-1408](https://www.nature.com/articles/s41563-023-01660-8). See on [arxiv](https://arxiv.org/abs/2208.12769) (2022).
 
