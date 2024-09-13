@@ -12,4 +12,4 @@ My interests include varied aspects of active matter, including continuum theori
 
 <img src='/images/equ_l.gif'><img src='/images/aps_l.gif'><img src='/images/mix_l.gif'>
 
-Contact me on fmc36 [@] ucsb [dot] edu
+Contact me on fcaballero [@] brandeis [dot] edu
