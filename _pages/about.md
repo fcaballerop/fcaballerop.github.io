@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-My interests include varied aspects of active matter, including continuum theories for nonequilibrium phenomena, critical properties of phase transition driven by activity, and how these continuum models can be coarsegrained from microscopic details of the system. These have gone from scalar dry theories for motility induced phase separation to hydrodynamic models for mixtures between active liquid crystals and passive materials. More recently I've been interested in how activity impacts the dynamics of interfaces in phase separated mixtures of active and passive materials, looking at coarse grained models for these interfaces from both numerical and analytical methods.
+My interests include emergent phenomena in complex systems, mostly involving continuum descriptions of nonequilibrium systems. These include critical of phase transitions driven by activity, coupling between phase separation and active flows, nonequilibrium interfacial properties, and more. This involves analytical methods, from simple linear stability analysis to renormalization group analysis of the critical behaviour of Langevin theories; and computational methods, involving [full integration of continuum theories](https://fcaballerop.github.io/code/) and data analysis and visualization.
 
-<img src='/images/equ_l.gif'><img src='/images/aps_l.gif'><img src='/images/mix_l.gif'>
-
+<table class="tab" style="width: 100%;" border="0">
+  <tr>
+    <td class="first"><img src='/images/aps_l.gif' width=200 height=200 align="left"></td>
+    <td class="first"><img src='/images/t1_ll.GIF'  width=200 height=200 class="center"></td>
+    <td class="first"><img src='/images/flock_ll.GIF' width=200 height=200 align="right"></td>
+  </tr>
+</table>
 Contact me on fcaballero [@] brandeis [dot] edu
