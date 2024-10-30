@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My interests include emergent phenomena in complex systems, mostly involving continuum descriptions of nonequilibrium systems. These include critical of phase transitions driven by activity, coupling between phase separation and active flows, nonequilibrium interfacial properties, and more. This involves analytical methods, from simple linear stability analysis to renormalization group analysis of the critical behaviour of Langevin theories; and computational methods, involving [full integration of continuum theories](https://fcaballerop.github.io/code/) and data analysis and visualization.
+My interests include emergent phenomena in complex systems, specifically in nonequilibrium systems. Examples are phase transitions driven by activity, coupling between phase separation and active flows, nonequilibrium interfacial properties, morphological changes of condensates driven by nonequilibrium processes, and more. This research involves analytical methods, from simple linear stability analysis to renormalization group analysis of the critical behaviour of Langevin theories; and computational methods, involving [full integration of continuum theories](https://fcaballerop.github.io/code/) and data analysis and visualization.
 
 <table class="tab" style="width: 100%;" border="0">
   <tr>
