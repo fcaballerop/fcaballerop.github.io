@@ -13,9 +13,13 @@ author_profile: true
 
 For a full list of publications see [Google Scholar](https://scholar.google.com/citations?user=oC3Ql9gAAAAJ&hl=es).
 
-[11] P. Gulati, **F. Caballero**, I. Kolvin, Z. You, M. C. Marchetti. Nonreciprocal interactions drive capillary waves in active liquid crystals. See on [arxiv](https://arxiv.org/abs/2407.04196) (2024).
+[13] **F. Caballero**, A. Maitra, C. Nardini. Interface dynamics of wet active systems. See on [arxiv](https://arxiv.org/abs/2409.02288) (2024).
 
-[10] L. Zhao, P. Gulati, **F. Caballero**, I. Kolvin, R. Adkins, M. C. Marchetti & Z. Dogic. Asymmetric fluctuations and self-folding of active interfaces. See on [arxiv](https://arxiv.org/abs/2407.04679) (2024).
+[12] P. Gulati, **F. Caballero**, M. C. Marchetti. Active fluids form system-spanning filamentary networks. See on [arxiv](https://arxiv.org/abs/2410.07058) (2024).
+
+[11] P. Gulati, **F. Caballero**, I. Kolvin, Z. You, M. C. Marchetti. Traveling waves at the surface of active liquid crystals. [Soft Matter 20 (38), 7703-7714](https://pubs.rsc.org/en/content/articlelanding/2024/sm/d4sm00822g). See on [arxiv](https://arxiv.org/abs/2407.04196) (2024).
+
+[10] L. Zhao, P. Gulati, **F. Caballero**, I. Kolvin, R. Adkins, M. C. Marchetti & Z. Dogic. Asymmetric fluctuations and self-folding of active interfaces. [PNAS 121 (51), e2410345121](https://www.pnas.org/doi/abs/10.1073/pnas.2410345121). See on [arxiv](https://arxiv.org/abs/2407.04679) (2024).
 
 [9] **F. Caballero**. cuPSS: a package for pseudo-spectral integration of stochastic PDEs. See on [arxiv](https://arxiv.org/abs/2405.02410) (2024).
 
