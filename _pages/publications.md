@@ -13,7 +13,7 @@ author_profile: true
 
 For a full list of publications see [Google Scholar](https://scholar.google.com/citations?user=oC3Ql9gAAAAJ&hl=es).
 
-[13] **F. Caballero**, A. Maitra, C. Nardini. Interface dynamics of wet active systems. See on [arxiv](https://arxiv.org/abs/2409.02288) (2024).
+[13] **F. Caballero**, A. Maitra, C. Nardini. Interface dynamics of wet active systems. [Phys. Rev. Lett 34 (8), 087105](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.087105). See on [arxiv](https://arxiv.org/abs/2409.02288) (2024).
 
 [12] P. Gulati, **F. Caballero**, M. C. Marchetti. Active fluids form system-spanning filamentary networks. See on [arxiv](https://arxiv.org/abs/2410.07058) (2024).
 
