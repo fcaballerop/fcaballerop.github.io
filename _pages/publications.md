@@ -131,7 +131,7 @@ author_profile: true
 
     <tr>
       <td valign="top">[5]</td>
-      <td valign="top">Inference, prediction and optimization of non-pharmaceutical interventions using<br>compartment models: the PyRoss library.<br> R. Adhikari, A. Bolitho, <strong>F. Caballero</strong>, M. E. Cates, J. Dolezal, T. Ekeh, J. Guioth,<br>R. L. Jack, J. Kappler, L. Kikuchi, H. Kobayashi, Y. I. Li, J. D. Peterson, P. Pietzonka, B. Remez, P. B. Rohrbach, R. Singh, G. Turk. </td>
+      <td valign="top">Inference, prediction and optimization of non-pharmaceutical interventions using<br>compartment models: the PyRoss library.<br> R. Adhikari, A. Bolitho, <strong>F. Caballero</strong>, M. E. Cates, J. Dolezal, T. Ekeh, J. Guioth,<br>R. L. Jack, J. Kappler, L. Kikuchi, H. Kobayashi, Y. I. Li, J. D. Peterson, P. Pietzonka,<br>B. Remez, P. B. Rohrbach, R. Singh, G. Turk. </td>
       <td valign="top">
       </td>
       <td valign="top">
@@ -166,7 +166,7 @@ author_profile: true
 
     <tr>
       <td valign="top">[2]</td>
-      <td valign="top">From bulk to microphase separation in scalar active matter: a perturbative renormalization group analysis.<br><strong>F. Caballero</strong>, C. Nardini & M. E. Cates. </td>
+      <td valign="top">From bulk to microphase separation in scalar active matter:<br>a perturbative renormalization group analysis.<br><strong>F. Caballero</strong>, C. Nardini & M. E. Cates. </td>
       <td valign="top">
         <a href="https://iopscience.iop.org/article/10.1088/1742-5468/aaf321/meta">J. Stat. Mech. 123208</a><br>
       </td>
