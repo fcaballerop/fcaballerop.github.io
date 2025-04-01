@@ -113,6 +113,47 @@ For a full list of publications see [Google Scholar](https://scholar.google.com/
       </td>
     </tr>
 
+    <tr>
+      <td colspan="4"><strong>2023</strong></td>
+    </tr>
+
+    <tr>
+      <td valign="top">[8]</td>
+      <td valign="top">Vorticity phase separation and defect lattices in the isotropic phase of active liquid crystals.<br><strong>F. Caballero</strong>, Z. You & M. C. Marchetti. </td>
+      <td valign="top">
+        <a href="https://pubs.rsc.org/en/content/articlelanding/2023/sm/d3sm00744h">Soft Matter 19 (40), 7828-7835</a><br>
+      </td>
+      <td valign="top">
+        <a href="https://arxiv.org/abs/2306.04526">arXiv</a>
+      </td>
+    </tr>
+
+    <tr>
+      <td colspan="4"><strong>2022</strong></td>
+    </tr>
+
+    <tr>
+      <td valign="top">[7]</td>
+      <td valign="top">Controlling liquid-liquid phase behavior with an active fluid.<br>A. M. Tayar, <strong>F. Caballero</strong>, T. Anderberg, O. A. Saleh, M. C. Marchetti & Z. Dogic.</td>
+      <td valign="top">
+        <a href="https://www.nature.com/articles/s41563-023-01660-8">Nat. Materials 22 (11), 1401-1408</a><br>
+      </td>
+      <td valign="top">
+        <a href="https://arxiv.org/abs/2208.12769">arXiv</a>
+      </td>
+    </tr>
+    
+    <tr>
+      <td valign="top">[6]</td>
+      <td valign="top">Activity suppressed phase separation.<br><strong>F. Caballero</strong> & M. C. Marchetti. </td>
+      <td valign="top">
+        <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.268002">Phys. Rev. Lett. 129 (26), 268002</a><br>
+      </td>
+      <td valign="top">
+        <a href="https://arxiv.org/abs/2306.2206.12574">arXiv</a>
+      </td>
+    </tr>
+
   </tbody>
 </table>
 
