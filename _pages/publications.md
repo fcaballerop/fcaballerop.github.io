@@ -154,6 +154,67 @@ For a full list of publications see [Google Scholar](https://scholar.google.com/
       </td>
     </tr>
 
+    <tr>
+      <td colspan="4"><strong>2020</strong></td>
+    </tr>
+
+    <tr>
+      <td valign="top">[5]</td>
+      <td valign="top">Inference, prediction and optimization of non-pharmaceutical interventions using compartment models: the PyRoss library.<br> R. Adhikari, A. Bolitho, <strong>F. Caballero</strong>, M. E. Cates, J. Dolezal, T. Ekeh, J. Guioth, R. L. Jack, J. Kappler, L. Kikuchi, H. Kobayashi, Y. I. Li, J. D. Peterson, P. Pietzonka, B. Remez, P. B. Rohrbach, R. Singh, G. Turk. </td>
+      <td valign="top">
+      </td>
+      <td valign="top">
+        <a href="https://arxiv.org/abs/2005.09625">arXiv</a>
+      </td>
+    </tr>
+
+    <tr>
+      <td valign="top">[4]</td>
+      <td valign="top">Stealth Entropy Production in Active Field Theories near Ising Critical Points.<br><strong>F. Caballero</strong> & M. E. Cates.</td>
+      <td valign="top">
+        <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.240604">Phys. Rev. Lett. 124, 240604</a><br>
+      </td>
+      <td valign="top">
+        <a href="https://arxiv.org/abs/2002.02281">arXiv</a>
+      </td>
+    </tr>
+
+    <tr>
+      <td valign="top">[3]</td>
+      <td valign="top">Controlling liquid-liquid phase behavior with an active fluid.<br><strong>F. Caballero</strong></td>
+      <td valign="top">
+        <a href="https://www.repository.cam.ac.uk/handle/1810/307918">PhD Thesis</a><br>
+      </td>
+      <td valign="top">
+      </td>
+    </tr>
+
+    <tr>
+      <td colspan="4"><strong>2018</strong></td>
+    </tr>
+
+    <tr>
+      <td valign="top">[2]</td>
+      <td valign="top">From bulk to microphase separation in scalar active matter: a perturbative renormalization group analysis.<br><strong>F. Caballero</strong>, C. Nardini & M. E. Cates. </td>
+      <td valign="top">
+        <a href="https://iopscience.iop.org/article/10.1088/1742-5468/aaf321/meta">J. Stat. Mech. 123208</a><br>
+      </td>
+      <td valign="top">
+        <a href="https://arxiv.org/abs/1809.10433">arXiv</a>
+      </td>
+    </tr>
+
+    <tr>
+      <td valign="top">[1]</td>
+      <td valign="top">Stealth Entropy Production in Active Field Theories near Ising Critical Points.<br><strong>F. Caballero</strong>, C. Nardini, F. van Wijland & M. E. Cates.</td>
+      <td valign="top">
+        <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.020601">Phys. Rev. Lett. 121, 020601</a><br>
+      </td>
+      <td valign="top">
+        <a href="https://arxiv.org/abs/1803.09525">arXiv</a>
+      </td>
+    </tr>
+
   </tbody>
 </table>
 
