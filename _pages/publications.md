@@ -49,7 +49,7 @@ author_profile: true
     </tr>
 
     <tr>
-      <td colspan="4"><strong>2024</strong></td>
+      <td bgcolor="#E5E7E9" colspan="4"><strong>2024</strong></td>
     </tr>
 
     <tr>
@@ -85,7 +85,7 @@ author_profile: true
     </tr>
 
     <tr>
-      <td colspan="4"><strong>2023</strong></td>
+      <td bgcolor="#E5E7E9" colspan="4"><strong>2023</strong></td>
     </tr>
 
     <tr>
@@ -100,7 +100,7 @@ author_profile: true
     </tr>
 
     <tr>
-      <td colspan="4"><strong>2022</strong></td>
+      <td bgcolor="#E5E7E9" colspan="4"><strong>2022</strong></td>
     </tr>
 
     <tr>
@@ -126,7 +126,7 @@ author_profile: true
     </tr>
 
     <tr>
-      <td colspan="4"><strong>2020</strong></td>
+      <td bgcolor="#E5E7E9" colspan="4"><strong>2020</strong></td>
     </tr>
 
     <tr>
@@ -161,7 +161,7 @@ author_profile: true
     </tr>
 
     <tr>
-      <td colspan="4"><strong>2018</strong></td>
+      <td bgcolor="#E5E7E9" colspan="4"><strong>2018</strong></td>
     </tr>
 
     <tr>
