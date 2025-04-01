@@ -58,8 +58,10 @@ For a full list of publications see [Google Scholar](https://scholar.google.com/
       <td valign="top">[13]</td>
       <td valign="top"><strong>F. Caballero</strong>, A. Maitra, C. Nardini. Interface dynamics of wet active systems.</td>
       <td valign="top">
-        <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.087105">Phys. Rev. Lett. 34 (8), 087105</a><br>
-        <a href="https://arxiv.org/abs/2409.02288">arXiv:2409.02288</a> (2024)
+        <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.087105">Phys. Rev. Lett. 34 (8), 087105 (2025)</a><br>
+      </td>
+      <td valign="top">
+        <a href="https://arxiv.org/abs/2409.02288">arXiv</a>
       </td>
     </tr>
 
