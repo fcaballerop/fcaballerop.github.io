@@ -43,7 +43,7 @@ For a full list of publications see [Google Scholar](https://scholar.google.com/
 <table style="width: 100%; border-collapse: collapse;">
   <tbody>
     <tr>
-      <td colspan="3">
+      <td colspan="4">
         {% if author.googlescholar %}
           You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
         {% endif %}
@@ -53,7 +53,6 @@ For a full list of publications see [Google Scholar](https://scholar.google.com/
       </td>
     </tr>
 
-    <!-- Example row -->
     <tr>
       <td valign="top">[13]</td>
       <td valign="top"><strong>F. Caballero</strong>, A. Maitra, C. Nardini. Interface dynamics of wet active systems.</td>
@@ -68,13 +67,11 @@ For a full list of publications see [Google Scholar](https://scholar.google.com/
     <tr>
       <td valign="top">[12]</td>
       <td valign="top">P. Gulati, <strong>F. Caballero</strong>, M. C. Marchetti. Active fluids form system-spanning filamentary networks.</td>
+      <td></td>
       <td valign="top">
         <a href="https://arxiv.org/abs/2410.07058">arXiv:2410.07058</a> (2024)
       </td>
     </tr>
-
-    <!-- Repeat similarly for the rest -->
-    <!-- ... -->
 
   </tbody>
 </table>
