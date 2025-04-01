@@ -54,10 +54,14 @@ For a full list of publications see [Google Scholar](https://scholar.google.com/
     </tr>
 
     <tr>
+      <td colspan="4"><strong>2025</strong></td>
+    </tr>
+
+    <tr>
       <td valign="top">[13]</td>
       <td valign="top"><strong>F. Caballero</strong>, A. Maitra, C. Nardini. Interface dynamics of wet active systems.</td>
       <td valign="top">
-        <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.087105">Phys. Rev. Lett. 34 (8), 087105 (2025)</a><br>
+        <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.087105">Phys. Rev. Lett. 34 (8), 087105</a><br>
       </td>
       <td valign="top">
         <a href="https://arxiv.org/abs/2409.02288">arXiv</a>
@@ -69,7 +73,22 @@ For a full list of publications see [Google Scholar](https://scholar.google.com/
       <td valign="top">P. Gulati, <strong>F. Caballero</strong>, M. C. Marchetti. Active fluids form system-spanning filamentary networks.</td>
       <td></td>
       <td valign="top">
-        <a href="https://arxiv.org/abs/2410.07058">arXiv:2410.07058</a> (2024)
+        <a href="https://arxiv.org/abs/2410.07058">arXiv</a>
+      </td>
+    </tr>
+
+    <tr>
+      <td colspan="4"><strong>2024</strong></td>
+    </tr>
+
+    <tr>
+      <td valign="top">[11]</td>
+      <td valign="top">P. Gulati, <strong>F. Caballero</strong>, I. Kolvin, Z. You, M. C. Marchetti. Traveling waves at the surface of active liquid crystals.</td>
+      <td valign="top">
+        <a href="https://pubs.rsc.org/en/content/articlelanding/2024/sm/d4sm00822g">Soft Matter 20 (38), 7703-7714</a><br>
+      </td>
+      <td valign="top">
+        <a href="https://arxiv.org/abs/2407.04196">arXiv</a>
       </td>
     </tr>
 
