@@ -25,7 +25,7 @@ author_profile: true
     </tr>
 
     <tr>
-      <td bgcolor="gray" colspan="4"><strong>2025</strong></td>
+      <td bgcolor="#E5E7E9" colspan="4"><strong>2025</strong></td>
     </tr>
 
     <tr>
