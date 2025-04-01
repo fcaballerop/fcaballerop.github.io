@@ -70,7 +70,7 @@ For a full list of publications see [Google Scholar](https://scholar.google.com/
 
     <tr>
       <td valign="top">[12]</td>
-      <td valign="top">P. Gulati, <strong>F. Caballero</strong>, M. C. Marchetti. Active fluids form system-spanning filamentary networks.</td>
+      <td valign="top">Active fluids form system-spanning filamentary networks.<br>P. Gulati, <strong>F. Caballero</strong>, M. C. Marchetti. </td>
       <td></td>
       <td valign="top">
         <a href="https://arxiv.org/abs/2410.07058">arXiv</a>
@@ -83,12 +83,33 @@ For a full list of publications see [Google Scholar](https://scholar.google.com/
 
     <tr>
       <td valign="top">[11]</td>
-      <td valign="top">P. Gulati, <strong>F. Caballero</strong>, I. Kolvin, Z. You, M. C. Marchetti. Traveling waves at the surface of active liquid crystals.</td>
+      <td valign="top">Traveling waves at the surface of active liquid crystals.<br>P. Gulati, <strong>F. Caballero</strong>, I. Kolvin, Z. You, M. C. Marchetti. </td>
       <td valign="top">
         <a href="https://pubs.rsc.org/en/content/articlelanding/2024/sm/d4sm00822g">Soft Matter 20 (38), 7703-7714</a><br>
       </td>
       <td valign="top">
         <a href="https://arxiv.org/abs/2407.04196">arXiv</a>
+      </td>
+    </tr>
+
+    <tr>
+      <td valign="top">[10]</td>
+      <td valign="top">Asymmetric fluctuations and self-folding of active interfaces.<br>L. Zhao, P. Gulati, <strong>F. Caballero</strong>, I. Kolvin, R. Adkins, M. C. Marchetti & Z. Dogic. </td>
+      <td valign="top">
+        <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2410345121">PNAS 121 (51), e2410345121</a><br>
+      </td>
+      <td valign="top">
+        <a href="https://arxiv.org/abs/2407.04679">arXiv</a>
+      </td>
+    </tr>
+
+    <tr>
+      <td valign="top">[9]</td>
+      <td valign="top">cuPSS: a package for pseudo-spectral integration of stochastic PDEs.<br><strong>F. Caballero</strong></td>
+      <td valign="top">
+      </td>
+      <td valign="top">
+        <a href="https://arxiv.org/abs/2405.02410">arXiv</a>
       </td>
     </tr>
 
