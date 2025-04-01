@@ -40,6 +40,44 @@ For a full list of publications see [Google Scholar](https://scholar.google.com/
 
 [1] **F. Caballero**, C. Nardini, F. van Wijland & M. E. Cates. Strong Coupling in Conserved Surface Roughening: A New Universality Class? [Phys. Rev. Lett. 121, 020601](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.020601) (2018). See on [arxiv](https://arxiv.org/abs/1803.09525).
 
+<table style="width: 100%; border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td colspan="3">
+        {% if author.googlescholar %}
+          You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+        {% endif %}
+        <br><br>
+        For a full list of publications see <a href="https://scholar.google.com/citations?user=oC3Ql9gAAAAJ&hl=es">Google Scholar</a>.
+        <br><br>
+      </td>
+    </tr>
+
+    <!-- Example row -->
+    <tr>
+      <td valign="top">[13]</td>
+      <td valign="top"><strong>F. Caballero</strong>, A. Maitra, C. Nardini. Interface dynamics of wet active systems.</td>
+      <td valign="top">
+        <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.087105">Phys. Rev. Lett. 34 (8), 087105</a><br>
+        <a href="https://arxiv.org/abs/2409.02288">arXiv:2409.02288</a> (2024)
+      </td>
+    </tr>
+
+    <tr>
+      <td valign="top">[12]</td>
+      <td valign="top">P. Gulati, <strong>F. Caballero</strong>, M. C. Marchetti. Active fluids form system-spanning filamentary networks.</td>
+      <td valign="top">
+        <a href="https://arxiv.org/abs/2410.07058">arXiv:2410.07058</a> (2024)
+      </td>
+    </tr>
+
+    <!-- Repeat similarly for the rest -->
+    <!-- ... -->
+
+  </tbody>
+</table>
+
+
 <!---
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
