@@ -17,4 +17,4 @@ My interests include emergent phenomena in complex systems, specifically in none
     <td class="first"><img src='/images/flock_ll.GIF' width=200 height=200 align="right"></td>
   </tr>
 </table>
-Contact me on fcaballero [@] brandeis [dot] edu
+Contact me on fcaballerop [@] pm [dot] me
