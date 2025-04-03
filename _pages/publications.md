@@ -31,7 +31,7 @@ author_profile: true
     <tr>
       <td valign="top">[13]</td>
       <td valign="top">
-        <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.087105">Phys. Rev. Lett. 34 (8), 087105</a><br>
+        <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.087105">Phys. Rev. Lett. 134 (8), 087105</a><br>
       </td>
       <td valign="top">Interface dynamics of wet active systems.<br><strong>F. Caballero</strong>, A. Maitra, C. Nardini.</td>
       <td valign="top">
