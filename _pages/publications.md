@@ -42,7 +42,7 @@ author_profile: true
     <tr>
       <td valign="top">[12]</td>
       <td>
-        <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.138301">Phys. Rev. Lett. 134, 138301</a><br>
+        <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.138301">Phys. Rev. Lett. 134 (13), 138301</a><br>
       </td>
       <td valign="top">Active fluids form system-spanning filamentary networks.<br>P. Gulati, <strong>F. Caballero</strong>, M. C. Marchetti. </td>
       <td valign="top">
