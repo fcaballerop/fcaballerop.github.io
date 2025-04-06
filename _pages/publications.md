@@ -182,7 +182,7 @@ author_profile: true
       <td valign="top">
         <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.020601">Phys. Rev. Lett. 121, 020601</a><br>
       </td>
-      <td valign="top">Stealth Entropy Production in Active Field Theories near Ising Critical Points.<br><strong>F. Caballero</strong>, C. Nardini, F. van Wijland & M. E. Cates.</td>
+      <td valign="top">Strong coupling in conserved surface roughening: A new universality class?<br><strong>F. Caballero</strong>, C. Nardini, F. van Wijland & M. E. Cates.</td>
       <td valign="top">
         <a href="https://arxiv.org/abs/1803.09525">arXiv</a>
       </td>
